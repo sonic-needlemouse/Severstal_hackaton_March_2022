@@ -7,17 +7,17 @@
 - Проведи исследование имеющихся данных и попробуй спрогнозировать просрочку по контрагенту, предложи, как обогатить модель иными данными;  
 - Data analysis of given data, contractor debt prediction, feature generation;
 - На выходе – понятный как для аналитика, так и для бизнес-пользователя Jupyter Notebook с подробным Exploratory Data Analysis (EDA) и воспроизводимым кодом решения, предобработки, моделирования, а также выводами;
-- As result: understandable for the analyst, for the business owner Jupyter Notebook c detailed Exploratory Data Analysis (EDA) and reproductible code of EDA, feature generation, ML, outputs;  
+- As result: understandable for the analyst, for the business owner Jupyter Notebook with detailed Exploratory Data Analysis (EDA) and reproductible code of EDA, feature generation, ML, outputs;  
 
 
-Ссылка на сайт хакатона
+Hackaton webiste:  
 https://serverchallenge.ru/ 
 
-Ссылка на описание задачи & данные
+Link to notion with task description & data:  
 https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 
 
-## **Структура репозитория**
+## **Structure of the repository**
 - notebooks - папка для ноутбуков с решениями  
 - 0_data_prepare.ipynb - ноутбук где обрабатываются и объединяются данные и выгружаются в pkl  
 - auto_eda.ipynb - авто EDA  
@@ -28,7 +28,7 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 
 
 
-## **Lesson learned (что можно было сделать ещё)**
+## **Lesson learned (what we could do more)**
 - наибольший скор дали переобученные неглубокие модели. Вопрос, как распознать такие случаи?  
 - логарифмировть скошеное распределение таргета - попробовал после окончания в песочниуе. Метрика выросла на 0,024!!!  
 - модели обучать можно не только последоватьельно (сначала температуру, а потом углерод), но и  
@@ -40,7 +40,7 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 - стекинг и блендинг (можно было воспользоваться шаблоном от Дьяконова)  
 - Регуляризацию надо было делать lambda и alpha, а не Только n_trees.  
 
-## **Диплом призера**
+## **Diploma of the 3rd place**
 
 ![image](https://user-images.githubusercontent.com/81492683/180475697-bcbcdd44-fe27-4b5e-8427-062c930dfe2a.png)
 
