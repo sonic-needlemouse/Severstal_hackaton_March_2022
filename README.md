@@ -1,5 +1,5 @@
 # Severstal-hackaton-march-2022
-## 🔥As a team member of "JEDAI" team took 3rd place🔥
+## 🔥As a team member of "JEDAI" our team took 3rd place🔥
 
 
 ## **Task**
