@@ -16,13 +16,12 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 
 
 ## **Structure of the repository**
-- notebooks - папка для ноутбуков с решениями  
-- 0_data_prepare.ipynb - ноутбук где обрабатываются и объединяются данные и выгружаются в pkl  
-- auto_eda.ipynb - авто EDA  
-- 2_lama_2.ipynb - Light Auto ML решение  
-- 7_model_tatget_log_exp_metric_another_reg.ipynb - лучшее решение после окончания хакатона (с логарифмированием и регуляризацией параметром reg_lambda (скор: 0.5423 / 0.5391)  
-- submits - папка для хранения сабмитов (csv-файл + ноутбук в zip-архиве)  
-- presentations.md - некоторые наиболее интересные скриншоты презентаций топ-7 участников.  
+- EDA.ipynb - Jupyter notebook with EDA 
+- Fact_PDZ_prediction.ipynb - Jupyter notebook with ML for contractors debt prediction
+- PDZ_prediction_30_days_and_60_90.ipynb - Jupyter notebook with ML for contractors debt prediction within certaqin time window: 30 days, from 60 to 90 days
+- my_functions.py - py file with self-made functions 
+- severstal_04_main.zip - zip file with all data: internal dataframes, all jupyter notebooks, py files. Just download it. Unzip. And it's ready for work!
+- Final_presentation.pdf - final presentation of our team ("JEDAI").  
 
 
 
