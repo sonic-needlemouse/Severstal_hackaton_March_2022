@@ -9,7 +9,7 @@
 - Overall this task had an "open answer". Each team could choose it's own metric. The main challenge was to explain why particulary we used this metrics from business point of view. We decided to use simultaneously 5 metrics: **recall, precision, accuracy, roc-auc on test, confusion matrix. The best combination of these 5 metrics gave as the best ML model.**
 
 
-Hackaton webiste:  
+Hackaton webiste:  👋
 https://serverchallenge.ru/ 
 
 Link to notion with task description & data:  
