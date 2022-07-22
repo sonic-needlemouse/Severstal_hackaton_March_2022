@@ -1,5 +1,5 @@
 # Severstal-hackaton-march-2022
-## As a team member of "JEDAI" team took 3rd place
+## 🔥As a team member of "JEDAI" team took 3rd place🔥
 
 
 ## **Task**
@@ -9,7 +9,7 @@
 - Overall this task had an "open answer". Each team could choose it's own metric. The main challenge was to explain why particulary we used this metrics from business point of view. We decided to use simultaneously 5 metrics: **recall, precision, accuracy, roc-auc on test, confusion matrix. The best combination of these 5 metrics gave as the best ML model.**
 
 
-Hackaton webiste:  👋
+Hackaton webiste:  
 https://serverchallenge.ru/ 
 
 Link to notion with task description & data:  
@@ -35,7 +35,7 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 ## **Lesson learned (what we could do more)**
 - The main reason why we didn't achieve the 1st place was a not enough evaluation of business effect of our modelling. 
 
-## **Diploma of the 3rd place**  
+## **🔥Diploma of the 3rd place🔥**  
 
 ![image](https://user-images.githubusercontent.com/81492683/180475697-bcbcdd44-fe27-4b5e-8427-062c930dfe2a.png)
 
