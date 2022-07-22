@@ -39,6 +39,7 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 - стекинг и блендинг (можно было воспользоваться шаблоном от Дьяконова)  
 - Регуляризацию надо было делать lambda и alpha, а не Только n_trees.  
 
-[Jedai_Алексей Куликов.pdf](https://github.com/Alex-ctrl-alt/Severstal-hackaton-march-2022-/files/9169075/Jedai_.pdf)
+![image](https://user-images.githubusercontent.com/81492683/180475697-bcbcdd44-fe27-4b5e-8427-062c930dfe2a.png)
+
 
 
