@@ -2,12 +2,8 @@
 ## As a team member of JEDAI team took 3rd place
 
 
-This folder contains educational projects in the field of Data Analytics & Data Sciecne of Yandex company bootcamp.
+Задача - разработать алгоритм предсказания содержание углерода и температуру чугуна.
+В этой задаче две подзадачи:
 
-
-|	Projects |	Goals of the project	|	Instruments & technologies |
-|:-----|:---|:---|
-|[Customer churn in commercial bank](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Commercial%20bank)| Forecast of customer churn based on historical data of customers behavior. 	| EDA, descriptive statistics, Pandas, Numpy, Matplotlib, Seaborn, sklearn.|
- | [Prediciton of raw ore cleaning at the manufacturing palnt](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Mining%20company)| Development of a model that predicts the recovery factor of gold from gold ore | Pandas, Numpy, Matplotlib, Seaborn, sklearn |
- | [Analysis of internet & cell phones tariffs for telecom companies](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Telecom%20company) | Telecom tariffs analysis based on a small sample of customers. Necessary to analyze behavior of customers and draw a conclusion - which tariff is better in terms of the financial component.   | EDA, descriptive statistics, stat Hypotheses, Pandas, Numpy, Matplotlib, Seaborn, SciPy. |
- | [Final project: customer churn prediction for the telecom company](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Final_project_customer_churn) | Customer churn prediction. Target metric AUC-ROC. | EDA, descriptive statistics, stat Hypotheses, Pandas, Numpy, Matplotlib, Seaborn, SciPy, sklearn, Keras. |
+Реализовать алгоритм, предсказывающий содержание углерода и температуры чугуна на момент конца плавки металла
+Задача из реального мира – придумать как обобщить алгоритм из пункта 1 на ситуацию реального производства. В реальном времени мы не знаем, когда наступит конец продувки, а должны определить это сами на основании прогнозируемых параметров чугуна. Что нужно добавить? Как перейти от модельной задачи к задаче из реального мира? Как развить алгоритм так, чтобы это было максимально полезно бизнесу?
