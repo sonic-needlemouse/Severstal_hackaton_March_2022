@@ -1,3 +1,6 @@
+![KMO_121703_03752_1_t218_184755](https://user-images.githubusercontent.com/81492683/180489047-7cd430f9-acaa-4103-8c14-1b2ef3e97d68.jpg)
+
+
 # Severstal (steel manufacturing company)-hackaton-march-2022
 ## 🔥As a team member of "JEDAI" our team took 3rd place🔥
 
