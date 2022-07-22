@@ -21,7 +21,7 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 - Fact_PDZ_prediction.ipynb - Jupyter notebook with ML for contractors debt prediction;  
 - PDZ_prediction_30_days_and_60_90.ipynb - Jupyter notebook with ML for contractors debt prediction within certaqin time window: 30 days, from 60 to 90 days;  
 - my_functions.py - py file with self-made functions;   
-- severstal_04_main.zip - zip file with all data: internal dataframes, all jupyter notebooks, py files. Just download it. Unzip. And it's ready for work!  
+- severstal_04_main.zip - zip file with all data: internal dataframes, all jupyter notebooks, py files. Just download it. Unzip. And it's ready for work!💯    
 - Final_presentation.pdf - final presentation of our team ("JEDAI");   
 - jedai_final pitch.mp4 - final pitch.
 
