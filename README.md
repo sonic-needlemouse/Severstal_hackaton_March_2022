@@ -1,11 +1,12 @@
 # Severstal-hackaton-march-2022
-## As a team member of JEDAI team took 3rd place
+## As a team member of "JEDAI" team took 3rd place
 
 
 ## **Task**
  
 - Data analysis of given data, contractor debt prediction, feature generation;  
 - As result: understandable for the analyst, for the business owner Jupyter Notebook with detailed Exploratory Data Analysis (EDA) and reproductible code of EDA, feature generation, ML, outputs;  
+- Overall this task had an "open answer". Each team could choose it's own metric. The main challenge was to explain why particulary we used this metrics from business point of view. We decided to use simultaneously 4 metrics: recall, precision, accuracy, roc-auc on test. 
 
 
 Hackaton webiste:  
@@ -21,7 +22,16 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 - PDZ_prediction_30_days_and_60_90.ipynb - Jupyter notebook with ML for contractors debt prediction within certaqin time window: 30 days, from 60 to 90 days
 - my_functions.py - py file with self-made functions 
 - severstal_04_main.zip - zip file with all data: internal dataframes, all jupyter notebooks, py files. Just download it. Unzip. And it's ready for work!
-- Final_presentation.pdf - final presentation of our team ("JEDAI").  
+- Final_presentation.pdf - final presentation of our team ("JEDAI") 
+- jedai_final pitch.mp4 - final pitch
+
+## **What was done**
+- Join of 3 files. Each files contatins diffrent amount of fetures (3 years. Each year company used more features).
+- EDA: box plotes, clustering, correlation matrix between features
+- ML to predict a contractoe with debt or w/o debt.  
+
+
+
 
 
 
