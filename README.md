@@ -36,7 +36,7 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 
 
 ## **Lesson learned (what we could do more)**
-- The main reason why we didn't achieve the 1st place was a not enough evaluation of business effect of our modelling. 
+- The main reason why we didn't achieve the 1st place😏 was a not enough evaluation of business effect of our modelling. 
 
 ## **🔥Diploma of the 3rd place🔥**  
 
