@@ -1,5 +1,5 @@
-# Severstal-hackaton-march-2022-
-As a team member of JEDAI team took 3rd place
+# Severstal-hackaton-march-2022
+## As a team member of JEDAI team took 3rd place
 
 
 This folder contains educational projects in the field of Data Analytics & Data Sciecne of Yandex company bootcamp.
