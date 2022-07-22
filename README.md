@@ -2,11 +2,12 @@
 ## As a team member of JEDAI team took 3rd place
 
 
-## **Задача**
+## **Task**
 
-- Проведи исследование имеющихся данных и попробуй спрогнозировать просрочку по контрагенту, предложи, как обогатить модель иными данными;
+- Проведи исследование имеющихся данных и попробуй спрогнозировать просрочку по контрагенту, предложи, как обогатить модель иными данными;  
+- Data analysis of given data, contractor debt prediction, feature generation;
 - На выходе – понятный как для аналитика, так и для бизнес-пользователя Jupyter Notebook с подробным Exploratory Data Analysis (EDA) и воспроизводимым кодом решения, предобработки, моделирования, а также выводами;
-- С нас — данные по контрагентам, список показателей для анализа, выборка для обучения модели
+- As result: understandable for the analyst, for the business owner Jupyter Notebook c detailed Exploratory Data Analysis (EDA) and reproductible code of EDA, feature generation, ML, outputs;  
 
 
 Ссылка на сайт хакатона
