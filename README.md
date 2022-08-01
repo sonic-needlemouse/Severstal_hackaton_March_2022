@@ -9,7 +9,7 @@
  
 - Data analysis of given data, contractors debt prediction, feature generation;  
 - As result: understandable for the analyst, for the business owner Jupyter Notebook with detailed Exploratory Data Analysis (EDA) and reproductible code of EDA, feature generation, ML, outputs;  
-- Overall, this task had an "open answer". Each team could choose it's own metric. The main challenge was to explain why particulary we used this metrics from business point of view. We decided to use simultaneously 5 metrics: **recall, precision, accuracy, roc-auc on test, confusion matrix. The best combination of these 5 metrics gave as the best ML model.**
+- Overall, this task had an "open answer". Each team could choose it's own metric. The main challenge was to explain why particulary we used this metrics from business point of view. We decided to use simultaneously 5 metrics: **recall, precision, accuracy, roc-auc on test, confusion matrix. The best combination of these 5 metrics gave us the best ML model.**
 
 
 Hackaton webiste:  
