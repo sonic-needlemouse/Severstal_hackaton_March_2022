@@ -34,6 +34,12 @@ https://russianhackers.notion.site/4-36f74cb0191d4bb19de1709c9633dd89
 - ML to predict a contractors with debt or w/o debt;    
 - ML to predict contractors debt within certain time window: 30 days, from 60 to 90 days.  
 
+## **ML sequence**
+- Search of the best classifier through the crossvalidation
+- Based on 5 metrics (recall, precision, accuracy, roc-auc on test, confusion matrix) I choose two best models. 
+- Apply feature importance for the best two models.
+- With different amount of features (according to feature importacne) I refit my models and check results, i.e. with top-5 features/top-10/top-15 and etc. 
+- I identify the best amount of features (the best in terms of metrics).
 
 ## **Lesson learned (what we could do more)**
 - The main reason why we didn't achieve the 1st place😏 was a not enough evaluation of business effect of our modelling. 
